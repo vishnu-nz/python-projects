@@ -163,6 +163,8 @@ another_dog.speak()
 
 type(Dog('Rover'))
 
+# casting
+int(8.99) # built in class in Python line str list float all are classes. Here we are casting from float to int
 
 
 
